@@ -1,0 +1,5 @@
+name: CCSSC
+version: '${project.version}'
+main: online.cloudcraft.ccssc.Main
+api-version: 1.19
+description: plugin for ccssc
